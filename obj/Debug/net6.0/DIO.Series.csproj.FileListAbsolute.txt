@@ -1,0 +1,15 @@
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/bin/Debug/net6.0/DIO.Series
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/bin/Debug/net6.0/DIO.Series.deps.json
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/bin/Debug/net6.0/DIO.Series.runtimeconfig.json
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/bin/Debug/net6.0/DIO.Series.dll
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/bin/Debug/net6.0/DIO.Series.pdb
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/obj/Debug/net6.0/DIO.Series.csproj.AssemblyReference.cache
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/obj/Debug/net6.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/obj/Debug/net6.0/DIO.Series.AssemblyInfoInputs.cache
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/obj/Debug/net6.0/DIO.Series.AssemblyInfo.cs
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/obj/Debug/net6.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/obj/Debug/net6.0/DIO.Series.dll
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/obj/Debug/net6.0/refint/DIO.Series.dll
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/obj/Debug/net6.0/DIO.Series.pdb
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/obj/Debug/net6.0/DIO.Series.genruntimeconfig.cache
+/home/gabriel/Documentos/dio-dotnet-poo-lab-2-master/obj/Debug/net6.0/ref/DIO.Series.dll
